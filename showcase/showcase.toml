@@ -1,0 +1,11 @@
+[[media]]
+file = "play.json.gz"
+name = "Finding room on the table"
+
+[[media]]
+file = "table.png"
+name = "Three cards, new possibilities"
+
+[[media]]
+file = "title.png"
+name = "A little order"
